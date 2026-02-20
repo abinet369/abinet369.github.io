@@ -7,7 +7,37 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2026 Abin Emmanuvel</copyright>
-    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 20 Feb 2026 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Data Science</title>
+      <link>http://localhost:1313/categories/data-science/</link>
+      <pubDate>Fri, 20 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/data-science/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Portfolio</title>
+      <link>http://localhost:1313/categories/portfolio/</link>
+      <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/portfolio/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/categories/projects/</link>
+      <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/categories/projects/</guid>
+      <description></description>
+      
+    </item>
     
   </channel>
 </rss>

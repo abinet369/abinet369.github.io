@@ -1,5 +1,6 @@
 ---
 title: "Projects"
+cardView: true
 cascade:
   showEdit: false
   showReadingTime: true
