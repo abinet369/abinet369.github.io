@@ -17,7 +17,7 @@ title = "aescapeTECH"
 [params.author]
   name = "Abin Emmanuvel"
   # email = "abinet369+blog@gmail.com"
-  # image = "img/blowfish_logo.png"
+  image = "img/blowfish_logo.png"
   # imageQuality = 96
   headline = "I'm only human"
   bio = "A little bit about you"
